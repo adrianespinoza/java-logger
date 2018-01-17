@@ -1,0 +1,8 @@
+Sep 30, 2013 5:55:34 PM com.main.MainLogger doSomeThingAndLog
+SEVERE: Info Log
+Sep 30, 2013 5:55:34 PM com.main.MainLogger doSomeThingAndLog
+SEVERE: Info Log
+Sep 30, 2013 5:55:34 PM com.main.MainLogger doSomeThingAndLog
+WARNING: Info Log
+Sep 30, 2013 5:55:34 PM com.main.MainLogger doSomeThingAndLog
+INFO: Info Log
